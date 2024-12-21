@@ -1,6 +1,6 @@
 
 
-## DATE: 19-10-24
+## DATE:19-12-24
 
 ## AIM:
 
@@ -48,9 +48,9 @@
 
 
 ## Output:
-![Screenshot (2)](https://github.com/user-attachments/assets/8a7a41be-623a-4460-b979-ecd3457cc04c)
-![Screenshot (3)](https://github.com/user-attachments/assets/939bdb54-e440-4bf0-ac6d-419332379a9a)
-![Screenshot (4)](https://github.com/user-attachments/assets/71feb0ff-dd78-4564-af8e-b1caf6089eaa)
+![Screenshot (2)](https://github.com/user-attachments/assets/effdcc26-3eba-4bcd-b445-df3984d3f6ee)
+![Screenshot (3)](https://github.com/user-attachments/assets/c417fa3f-eb46-429e-be38-5090592e9580)
+![Screenshot (4)](https://github.com/user-attachments/assets/851c7dda-178b-4f0c-a8b0-46f62f626831)
 
 
 ### Name:v.sai kumar Reddy
